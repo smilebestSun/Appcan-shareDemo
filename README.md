@@ -1,2 +1,2 @@
 # Appcan-shareDemo
-资讯分享app
+基于Appcan的资讯分享app
